@@ -1,0 +1,41 @@
+p{
+    text-align: center;
+}
+label.form-label{
+    margin-top: 100px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#loc{
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#atu{
+    color: 	#696969;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#minima1{
+    color: 	#696969;
+}
+
+#minima2{
+    color: 	#696969;
+}
+
+#minima3{
+    color: 	#696969;
+}
+
+#minima4{
+    color: 	#696969;
+}
+
+#climas{
+    text-align: center;
+}
+
+
+
